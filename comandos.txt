@@ -1,0 +1,31 @@
+init 
+iniciara un repositorio nuevo en el directorio que nos encontremos
+
+$ git init 
+
+clone
+clonar un repositorio que este en la nube 
+
+$ git clone urlRepositorio
+
+status
+nos permite ver el estado del repositorio
+
+$ git status
+
+add 
+permite agregar nuevos archivos a nuestro espacio de trabajo
+
+$ git add nombreArchivo
+$ git add . 
+$ git add -A
+
+push
+permite agregar nuevos archivos a el espacio de trabajo 
+
+$ git push urlRepositorio
+
+pull 
+descarga y guarda los cambios realizados previamente en un repositorio 
+
+$ git pull urlRepositorio 
