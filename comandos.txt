@@ -29,3 +29,6 @@ pull
 descarga y guarda los cambios realizados previamente en un repositorio 
 
 $ git pull urlRepositorio 
+
+¿Que es git?
+Git es un software de control de versiones que permite registrar los cambios realizados sobre un archivo o conjunto de archivos a lo largo del tiempo
